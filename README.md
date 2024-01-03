@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammad-Junaid-586/Muhammad-Junaid-586/blob/main/Yellow%20and%20Blue%20Minimalist%20Digital%20Marketing%20Outdoor%20Banner.png)
+![logo](https://github.com/Muhammad-Junaid-586/Muhammad-Junaid-586/blob/main/profile-bg.png)
 <h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
 <h3 align="center">A passionate Web Developer from KPK Hangu</h3>
 
